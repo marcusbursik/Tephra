@@ -1,4 +1,4 @@
-Primary Analytical Metadata,,,"BOLD, CAPITAL headings indicate MANDATORY fields",This spreadsheet is designed for entry of metadata related to a single EPMA or SEM-EDS analytical method. Use a separate spreadsheet for each additional method.,,,,,,,,,,,,,,,,,
+Primary Analytical Metadata,,,,"BOLD, CAPITAL headings indicate MANDATORY fields",This spreadsheet is designed for entry of metadata related to a single EPMA or SEM-EDS analytical method. Use a separate spreadsheet for each additional method.,,,,,,,,,,,,,,,,,
 ,IDENTIFICATION,,,,Instrument ID ?,Institution ID ?,,,ANALYTICAL PROCEDURE,,,,,,"WDS, EDS utilization would not be needed if the element to spectrometer assignments were detailed on the next tab",,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,
 ,Method DOI,METHOD NAME,Method start date,TECHNIQUE,INSTRUMENT,LABORATORY,Funding,,SOFTWARE,BEAM VOLTAGE,BEAM CURRENT,BEAM DIAMETER,BEAM RASTER,SECONDARY REFERENCE MATERIALS,WDS utilization,EDS utilization,Beam damage minimization,Drift correction,X-ray matrix corrections,Additional notes,Method references,EDS configuration
